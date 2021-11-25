@@ -5,6 +5,8 @@ The code contained in this repository accompanies the physics master's thesis by
 
 The file named Unitary_solution.jl solves a differential equation system. The solution of this computation is needed for some of the other files. The files Variables.jl, UnitaryQTable.jl, Rewardfield.jl, and LocationsAndActions.jl contain modules, which aid Agent.jl. 
 
+The two .toml files contain the used package versions.  
+
 Documentation structure
 -----------------------
 # "" = Comments
